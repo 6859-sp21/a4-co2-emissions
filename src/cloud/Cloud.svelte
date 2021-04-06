@@ -60,7 +60,7 @@
   <div class="info">
     <div class="intro">
       <div class="text">
-        Mouse over the visualization or search a country to see CO<sub>2</sub> emissions
+        Mouse over the visualization to see CO<sub>2</sub> emissions per capita and overall (in 2018)
       </div>
       {#if (width > 600)}
         <div class="search">

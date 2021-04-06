@@ -56432,7 +56432,7 @@ var app = (function () {
     			div = element("div");
     			create_component(countrysearch.$$.fragment);
     			attr_dev(div, "class", "search svelte-1dmcuo3");
-    			add_location(div, file$d, 65, 8, 1982);
+    			add_location(div, file$d, 65, 8, 1995);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -56487,7 +56487,7 @@ var app = (function () {
     			div = element("div");
     			create_component(countrysearch.$$.fragment);
     			attr_dev(div, "class", "search small svelte-1dmcuo3");
-    			add_location(div, file$d, 74, 6, 2242);
+    			add_location(div, file$d, 74, 6, 2255);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -56699,10 +56699,10 @@ var app = (function () {
     			div3 = element("div");
     			div1 = element("div");
     			div0 = element("div");
-    			t1 = text("Mouse over the visualization or search a country to see CO");
+    			t1 = text("Mouse over the visualization to see CO");
     			sub = element("sub");
     			sub.textContent = "2";
-    			t3 = text(" emissions");
+    			t3 = text(" emissions per capita and overall (in 2018)");
     			t4 = space();
     			if (if_block0) if_block0.c();
     			t5 = space();
@@ -56713,18 +56713,18 @@ var app = (function () {
     			t7 = space();
     			div4 = element("div");
     			if (if_block2) if_block2.c();
-    			add_location(sub, file$d, 62, 66, 1912);
+    			add_location(sub, file$d, 62, 46, 1892);
     			attr_dev(div0, "class", "text svelte-1dmcuo3");
     			add_location(div0, file$d, 61, 6, 1827);
     			attr_dev(div1, "class", "intro svelte-1dmcuo3");
     			add_location(div1, file$d, 60, 4, 1801);
     			attr_dev(div2, "class", "legend svelte-1dmcuo3");
-    			add_location(div2, file$d, 70, 4, 2130);
+    			add_location(div2, file$d, 70, 4, 2143);
     			attr_dev(div3, "class", "info svelte-1dmcuo3");
     			add_location(div3, file$d, 59, 2, 1778);
     			attr_dev(div4, "class", "wrapper svelte-1dmcuo3");
     			add_render_callback(() => /*div4_elementresize_handler*/ ctx[20].call(div4));
-    			add_location(div4, file$d, 79, 2, 2386);
+    			add_location(div4, file$d, 79, 2, 2399);
     			attr_dev(div5, "class", "fill svelte-1dmcuo3");
     			add_location(div5, file$d, 58, 0, 1757);
     		},
