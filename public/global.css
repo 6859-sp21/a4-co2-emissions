@@ -1,0 +1,46 @@
+:root {
+	--dark: #757575;
+	--blue: #bad7df;
+	--red: #fa4659;
+	--light: #fbfbfb;
+	--gray: #d3d4d8;
+	--green: #7EC8C1;
+	--orange: #ff8264;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Google Sans', sans-serif;
+	font-size: 12px;
+	background-color: var(--light);
+}
+
+@media (min-width: 600px ) {
+	html, body {
+		font-size: 15px;
+	}
+}
+
+@media (min-width: 980px ) {
+	html, body {
+		font-size: 17px;
+	}
+}
+
+@media (min-width: 1260px ) {
+	html, body {
+		font-size: 18px;
+	}
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+	border-bottom: 1px solid var(--red);
+}
