@@ -57118,6 +57118,8 @@ var app = (function () {
     	let a3;
     	let t13;
     	let a4;
+    	let t15;
+    	let a5;
     	let current;
     	let if_block = /*data*/ ctx[0] && create_if_block$4(ctx);
 
@@ -57148,16 +57150,19 @@ var app = (function () {
     			t11 = text(", ");
     			a3 = element("a");
     			a3.textContent = "Matthias Stahl";
-    			t13 = text(", and ");
+    			t13 = text(", ");
     			a4 = element("a");
     			a4.textContent = "Mr.doob";
+    			t15 = text(", and ");
+    			a5 = element("a");
+    			a5.textContent = "Johnson Martin";
     			add_location(sub, file$e, 31, 10, 672);
-    			attr_dev(h1, "class", "svelte-1ra0u58");
+    			attr_dev(h1, "class", "svelte-1jaxuju");
     			add_location(h1, file$e, 31, 4, 666);
-    			attr_dev(div0, "class", "header svelte-1ra0u58");
+    			attr_dev(div0, "class", "header svelte-1jaxuju");
     			add_location(div0, file$e, 30, 2, 641);
     			attr_dev(div1, "id", "visual");
-    			attr_dev(div1, "class", "svelte-1ra0u58");
+    			attr_dev(div1, "class", "svelte-1jaxuju");
     			add_location(div1, file$e, 33, 2, 728);
     			attr_dev(a0, "href", "https://www.gapminder.org/data/");
     			add_location(a0, file$e, 39, 14, 848);
@@ -57169,10 +57174,12 @@ var app = (function () {
     			attr_dev(a3, "href", "https://github.com/higsch");
     			add_location(a3, file$e, 40, 171, 1079);
     			attr_dev(a4, "href", "https://github.com/mrdoob");
-    			add_location(a4, file$e, 40, 231, 1139);
-    			attr_dev(div2, "class", "footer svelte-1ra0u58");
+    			add_location(a4, file$e, 40, 227, 1135);
+    			attr_dev(a5, "href", "https://blendswap.com/profile/122633");
+    			add_location(a5, file$e, 40, 280, 1188);
+    			attr_dev(div2, "class", "footer svelte-1jaxuju");
     			add_location(div2, file$e, 38, 2, 813);
-    			attr_dev(div3, "class", "wrapper svelte-1ra0u58");
+    			attr_dev(div3, "class", "wrapper svelte-1jaxuju");
     			add_location(div3, file$e, 29, 0, 617);
     		},
     		l: function claim(nodes) {
@@ -57201,6 +57208,8 @@ var app = (function () {
     			append_dev(div2, a3);
     			append_dev(div2, t13);
     			append_dev(div2, a4);
+    			append_dev(div2, t15);
+    			append_dev(div2, a5);
     			current = true;
     		},
     		p: function update(ctx, [dirty]) {
