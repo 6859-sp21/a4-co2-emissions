@@ -8,7 +8,7 @@ from earth which cause the globe to catch in metaphorical flames. I used data fr
 sources in gapminder to get CO2 emission information, and used an R library to sort the countries 
 continent.
 
-![landing view](https://www.dropbox.com/s/ke41snyf3fqbzbv/landing.png?dl=1)
+![landing view](/media/landing.png)
 
 Upon viewing the site, viewers notice a globe on the right with what looks like CO2 clouds 
 emitting from it, and a red fire-like graph surrounding the globe. I received feedback that 
@@ -20,7 +20,7 @@ When the graph is moused-over, each country’s CO2 per capita contribution is h
 together with a progression graph from 2000 and 2018. Viewers can use this method to explore CO2 
 emissions from different countries, or type in the search bar to find particular ones.
 
-![search](https://www.dropbox.com/s/p1w7p2x72s0des3/search.gif?dl=1)
+![search](/media/search.gif)
 
 The data is sorted in increasing order within each continent so that viewers can easily compare 
 between neighboring countries. I received feedback that the order of the continents could be 
@@ -41,7 +41,7 @@ To strengthen the takeaway about how much pollution is being emitted, I created 
 which can be used to compare the volumes of CO2 emitted to the eiffel tower. Viewers can zoom out 
 of this little window to see the relative size of CO2 emissions compared to the eiffel tower.
 
-![3d](https://www.dropbox.com/s/3dwx0d4feksyaby/3d.gif?dl=1)
+![3d](/media/3d.gif)
 
 Using this system, we can gain some interesting insights. For instance, while China is a 
 significant contributor to global CO2 emissions, its CO2 emission per person is relatively small.
