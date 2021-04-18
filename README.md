@@ -37,9 +37,7 @@ that country. The taller the graph, the more red, or the hotter it becomes. This
 a visual comparison between countries and continents. For a more specific comparison, I used 
 labels to allow viewers to find the actual amounts of emission from that country.
 
-To strengthen the takeaway about how much pollution is being emitted, I created a 3D scene here 
-which can be used to compare the volumes of CO2 emitted to the eiffel tower. Viewers can zoom out 
-of this little window to see the relative size of CO2 emissions compared to the eiffel tower.
+To strengthen the takeaway about how much pollution is being emitted, I created a 3D scene which can be used to compare the volumes of CO2 emitted to the eiffel tower. Viewers can zoom out and interact with a window in the legend to see the relative size of a labelled bar representing 1 kilotonne of CO2 emissions compared to the eiffel tower.
 
 ![3d](/media/3d.gif)
 
