@@ -38,7 +38,7 @@
   </div>
   <div class="footer">
     Data from <a href="https://www.gapminder.org/data/">GapMinder</a><br>
-    Library / code credit: <a href="https://github.com/vincentarelbundock/countrycode">Vincent Arel-Bundock</a>, <a href="https://github.com/Rich-Harris">Rich Harris</a>, <a href="https://github.com/higsch">Matthias Stahl</a>, <a href="https://github.com/mrdoob">Mr.doob</a>, and <a href="https://blendswap.com/profile/122633">Johnson Martin</a>
+    Library / code credit: <a href="https://github.com/vincentarelbundock/countrycode">Vincent Arel-Bundock</a>, <a href="https://github.com/Rich-Harris">Rich Harris</a>, <a href="https://github.com/higsch">Matthias Stahl</a>, <a href="https://github.com/mrdoob">Mr.doob</a>, <a href="https://blendswap.com/profile/122633">Johnson Martin</a>, and <a href="https://www.flaticon.com/authors/turkkub">turkkub</a>
   </div>
 </div>
 

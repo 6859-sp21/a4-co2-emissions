@@ -60,7 +60,7 @@
   <div class="info">
     <div class="intro">
       <div class="text">
-        Mouse over the visualization to see CO<sub>2</sub> emissions per capita and overall (in 2018)
+        CO<sub>2</sub> emissions trap heat on earth like a blanket, keeping in excess heat that would otherwise be radiated out into space.
       </div>
       {#if (width > 600)}
         <div class="search">
@@ -160,5 +160,6 @@
     -ms-flex: 1;
     flex: 1;
     height: 80vmin;
+    margin-left: -5%;
   }
 </style>

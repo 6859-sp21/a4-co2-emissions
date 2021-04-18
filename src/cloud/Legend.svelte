@@ -26,7 +26,7 @@
 			scene = new THREE.Scene();
 
 			const loader = new GLTFLoader()
-					loader.load( 'https://cdn.glitch.com/b914b490-bea8-4c55-b512-f1c164f636ef%2FEiffel_Tower.glb?v=1617693836928', function ( gltf ) {
+					loader.load( 'https://cdn.glitch.com/b914b490-bea8-4c55-b512-f1c164f636ef%2Fco2.glb?v=1618710206768', function ( gltf ) {
             gltf.scene.scale.set(2,2,2);
             gltf.scene.position.y -= 5.5;
 						scene.add( gltf.scene );
